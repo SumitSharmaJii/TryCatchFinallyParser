@@ -1,0 +1,5 @@
+//write a function that may contain try catch
+int prog(){
+    try{}
+    catch(exception ex){}
+}
