@@ -1,6 +1,0 @@
-Commands to compile and execute :-
-
-Step 1 :   flex tryCatch.l
-Step 2 :   bison -ydv tryCatch.y  
-Step 3 :   gcc lex.yy.c y.tab.c -o Prog
-Step 4 :   ./Prog sampleInput.txt
